@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/icon.png</file>
+        <file>icons/run.png</file>
+        <file>icons/stop.png</file>
+        <file>icons/exit.png</file>
+    </qresource>
+</RCC>
